@@ -1,0 +1,61 @@
+Partlist
+
+Exported from CREMA.sch at 06/04/2013 4:10:32 PM
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device                     Package    Library               Digikey
+
+AC(L)                   PIN262409-1                63824-1    con-faston            A29938CT-ND
+AC(N)                   PIN262409-1                63824-1    con-faston            A29938CT-ND
+BOILER-A                C-GRID-02-70543            70543-02   con-molex             WM4800-ND
+BOILER-B                C-GRID-02-70543            70543-02   con-molex             WM4800-ND
+BR                      PIN262409-1                63824-1    con-faston            A29938CT-ND
+C1       47u            C-EUC0805                  C0805      rcl                   445-8239-1-ND
+C2       100n           C-EUC0805                  C0805      rcl                   445-6045-1-ND
+C3       100n           C-EUC0805                  C0805      rcl                   445-6045-1-ND
+C4       100n           C-EUC0805                  C0805      rcl                   445-6045-1-ND
+C5       100n           C-EUC0805                  C0805      rcl                   445-6045-1-ND
+C6                      CPOL-USD/7343-31W          D/7343-31W rcl                   718-1777-1-ND
+D1                      SUPPRESSOR-SMBJ            SMBJ       diode                 SMBJP6KE6.8A-TPMSCT-ND
+HW                      PIN262409-1                63824-1    con-faston            A29938CT-ND
+I2C                     C-GRID-04-70543            70543-04   con-molex             WM4802-ND
+IC1                     MID400                     DIL08      ic-package            1
+IC2                     MID400                     DIL08      ic-package            1
+IC3                     MID400                     DIL08      ic-package            1
+LED-A                   LEDSML0603                 SML0603    led                   160-1827-1-ND
+LED-B                   LEDSML0603                 SML0603    led                   160-1827-1-ND
+LED-P                   LEDSML0603                 SML0603    led                   160-1827-1-ND
+PUMP                    C-GRID-02-70543            70543-02   con-molex             WM4800-ND
+R1       150            R-US_R0603                 R0603      rcl                   RG16N150WCT-ND
+R2       150            R-US_R0603                 R0603      rcl                   RG16N150WCT-ND
+R3       750            R-US_R0603                 R0603      rcl                   RG16N750WCT-ND
+R4       22k            R-EU_R1206                 R1206      rcl                   P22.0KFCT-ND
+R5       300            R-EU_R1206                 R1206      rcl                   P300FCT-ND
+R6       22k            R-EU_R1206                 R1206      rcl                   P22.0KFCT-ND
+R7       300            R-EU_R1206                 R1206      rcl                   P300FCT-ND
+R8       22k            R-EU_R1206                 R1206      rcl                   P22.0KFCT-ND
+R9       300            R-EU_R1206                 R1206      rcl                   P300FCT-ND
+R10      4.7k           R-US_R0603                 R0603      resistor              541-4.70KSCT-ND
+R11      220V-2A-PTC    S20K11                     S20K11     varistor              LVR200S-ND
+R12      4.7k           R-EU_R0603                 R0603      rcl                   541-4.70KSCT-ND
+R13      4.7k           R-EU_R0603                 R0603      rcl                   541-4.70KSCT-ND
+R14      470            R-EU_R0603                 R0603      rcl                   541-470SCT-ND
+R15      470            R-EU_R0603                 R0603      rcl                   541-470SCT-ND
+R16      470            R-EU_R0603                 R0603      rcl                   541-470SCT-ND
+RTD-A    PT100          C-GRID-02-70543            70543-02   con-molex             WM4800-ND
+RTD-B    PT100          C-GRID-02-70543            70543-02   con-molex             WM4800-ND
+ST                      PIN262409-1                63824-1    con-faston            A29938CT-ND
+SV1                     MA06-1                     MA06-1     con-lstb              3M9451-ND
+SV2                     MA10-1                     MA10-1     con-lstb              3M9455-ND
+SV3                     MA08-1                     MA08-1     con-lstb              3M9452-ND
+SV4                     MA08-1                     MA08-1     con-lstb              3M9452-ND
+SV5                     MA03-2                     MA03-2     con-lstb              3M9525-ND
+U$1      DS3231M        DS3231M                    SO08       SparkFun-DiscreteSemi 1
+U1       ADS1247_PW_20  ADS1247_PW_20              PW20       ADS1247               1
+
+Associated Connectors
+15-47-4023-ND - Female Gold Plated 2 Pin
+WM5016-ND - Female Gold Plated 4 Pin
