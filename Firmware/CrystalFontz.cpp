@@ -6,8 +6,8 @@ Version 0.1
 Description: This software provides basic functionality to communicate with a CrystalFontz CFI-533 TMI (I2C) display module.
 Not all functions have been implemented yet.
 
-This software is distrubuted under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
-http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+This software is distrubuted under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
 */
 
 #include "CrystalFontz.h"

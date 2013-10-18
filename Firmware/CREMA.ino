@@ -3,8 +3,8 @@ ControlleR for Espresso MAchines - CREMA (C) 2013 http://josh.to/crema
 By Josh Blake
 Version 0.1
 
-This software is distrubuted under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
-http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+This software is distrubuted under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
 */
 
 #include <SPI.h>
